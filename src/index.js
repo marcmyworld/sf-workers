@@ -1,6 +1,6 @@
 const ALLOWED_PROJECTS = {
-  "chenfeng-builds": "Xiaomi 14 Civi / Civi 4 Pro",
-  "groot-builds": "Redmi K70E / POCO X6 Pro"
+  "chenfeng-builds": "Xiaomi 14 Civi",
+  "groot-builds": "Xiaomi Civi 4 Pro"
 };
 
 const TELEGRAM_HANDLE = "xeon_man";
